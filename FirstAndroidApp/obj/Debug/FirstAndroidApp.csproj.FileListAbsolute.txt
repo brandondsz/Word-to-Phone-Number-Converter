@@ -1,0 +1,15 @@
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\FirstAndroidApp.csprojResolveAssemblyReference.cache
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\bin\Debug\FirstAndroidApp.dll
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\bin\Debug\FirstAndroidApp.pdb
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\bin\Debug\FirstAndroidApp.FirstAndroidApp.apk
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\bin\Debug\FirstAndroidApp.FirstAndroidApp-Signed.apk
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\FirstAndroidApp.dll
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\FirstAndroidApp.pdb
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\android\bin\FirstAndroidApp.FirstAndroidApp.apk
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\res\layout\main.xml
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\res\values\strings.xml
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\res\drawable\icon.png
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\R.cs.flag
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\uploadflags.txt
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\obj\Debug\FirstAndroidApp.dll.mdb
+C:\Users\brandon\Documents\Visual Studio 2013\Projects\FirstAndroidApp\FirstAndroidApp\bin\Debug\FirstAndroidApp.dll.mdb
